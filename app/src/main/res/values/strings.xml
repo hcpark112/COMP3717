@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+    <string name="help_text">Add A Movie To The Catalogue</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+    <string name="link">Link to IMDB</string>
+    <string name="add">Add To Catalogue</string>
+    <string name="catalogue">View Catalogue</string>
+    <string name="back">Back</string>
+</resources>
